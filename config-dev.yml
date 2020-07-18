@@ -1,2 +1,6 @@
 # spring-cloud-config
-ssdsadadasdasdad
+spring: 
+  cloud: 
+    config:
+      label: master
+      name: config
