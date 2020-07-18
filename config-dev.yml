@@ -1,6 +1,3 @@
 # spring-cloud-config
-spring: 
-  cloud: 
-    config:
-      label: master
-      name: config
+config:
+  info: master/config-dev.xml/ version 1.0
