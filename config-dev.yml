@@ -1,4 +1,4 @@
 # spring-cloud-config
 config:
-  info: master/config-dev.xml/ version 2.0 由于运维工程师需要更新以下配置文件  再一次的修改配置文件
-  onf: master/config-dev.xml/ version 4.0
+  info: master/config-dev.xml/ version 4.0 由于运维工程师需要更新以下配置文件  再一次的修改配置文件
+  onf: master/config-dev.xml/ version 7.0
