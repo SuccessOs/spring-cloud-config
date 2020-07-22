@@ -1,4 +1,4 @@
 # spring-cloud-config
 config:
-  info: master/config-dev.xml/ version 94.0 最新更改
+  info: master/config-dev.xml/ version 45.0 最新更改
   onf: master/config-dev.xml/ version 7.0
